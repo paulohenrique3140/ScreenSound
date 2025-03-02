@@ -23,3 +23,24 @@ Este projeto foi desenvolvido como parte do curso da Alura para aprimorar habili
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/seu-usuario/screen-sound.git
+
+2. Acesse o diretório do projeto:
+   ```bash
+   cd screen-sound
+
+3. Complie e execute o programa:
+   ```bash
+   dotnet run
+
+## 📌 Melhorias futuras
+
+- Persistência de dados (salvar informações das bandas
+- Interface gráfica usando um framework como WinForms ou WPF
+- Integração com APIs de música
+
+## 📄 Licença
+
+Este projeto foi desenvolvido para fins educacionais.
+
+
+
